@@ -1,0 +1,14 @@
+.bg11{
+background-image: url('./img/about-our-team.png');
+height: 700%;
+width: 100%;
+margin-top: 125%;
+}
+.joinour{
+    position: absolute;
+border: 0.5px solid white;
+height:8vh;
+background-color: white;
+width:16%;
+border-radius:30px;
+}
